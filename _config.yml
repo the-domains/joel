@@ -1,0 +1,28 @@
+name: Joel
+favicon: null
+layout_spectrum: 0.8860055776312947
+typography_spectrum: 0.08460745797492564
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.04649075982160866
+  lightness: 0.32104826206341386
+  saturation: 0.46681322413496673
+  rhythmicContrast: 0.14764120429754257
+purpose: []
